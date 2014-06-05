@@ -1,0 +1,45 @@
+;;; Vowels are (high, low, front, back, tense, round, high2, low2, front2, back2, tense2, round2)
+;;; Consonants are (labial, dent, alveolar, palatal, velar, stop, fricative, nasal, liquid, voiced)
+;;; labialdent = lab + dent, affricate = stop + fricative, palatoalveolar = alveolar + palatal
+;;; c = consonant, v = vowel
+AA,v,010100010100
+AE,v,011010011010
+AH,v,000000000000
+AO,v,000101000101
+AW,v,010000100101
+AY,v,010000101000
+B,c,1000010001
+CH,c,0011011000
+D,c,0010010001
+DH,c,0100001001
+EH,v,001000001000
+ER,v,000010000010
+EY,v,001010101000
+F,c,1100001000
+G,c,0000110001
+HH,c,0000001000
+IH,v,101000101000
+IY,v,101010101010
+JH,c,0011001001
+K,c,0000110000
+L,c,0010000011
+M,c,1000010101
+N,c,0010010101
+NG,c,0000110101
+OW,v,000111100101
+OY,v,000101101000
+P,c,1000010000
+R,c,0010000011
+S,c,0010001000
+SH,c,0011001000
+T,c,0010010001
+TH,c,0100001000
+UH,v,100101100101
+UW,v,100111100111
+V,c,1100001001
+W,c,1000100011
+W,v,100111100111
+Y,c,0001000011
+Y,v,101010101010
+Z,c,0010001001
+ZH,c,0011001001
